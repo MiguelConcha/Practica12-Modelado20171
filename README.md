@@ -2,6 +2,9 @@
 
 __Introducción al lenguaje C__
 
+
+![tumblr_inline_nu6vqczp8y1tbt8rv_400](https://cloud.githubusercontent.com/assets/13952922/19956874/6c0bddc0-a156-11e6-8b42-78d71ff09018.png)
+
 Entre otras cosas: 
 
 * Se incluye una descripción de: 
